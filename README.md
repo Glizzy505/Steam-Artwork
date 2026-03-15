@@ -73,23 +73,21 @@ dynamic Steam pages.
 
 ## Installation
 
-1.  Clone this repository:
+1. Clone this repository:
 
 ```bash
-
+git clone https://github.com/Glizzy505/steam-artwork-auto-uploader.git
 ```
-    git clone https://github.com/Glizzy505/steam-artwork-auto-uploader.git
 
-2.  Open Chrome and go to:
+2. Open Chrome and go to:
 
 ```bash
-
+chrome://extensions
 ```
-    chrome://extensions
 
-3.  Enable **Developer Mode**.
+3. Enable **Developer Mode**.
 
-4.  Click **Load unpacked** and select the project folder.
+4. Click **Load unpacked** and select the project folder.
 
 ------------------------------------------------------------------------
 
