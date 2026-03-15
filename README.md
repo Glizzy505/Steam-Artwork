@@ -70,13 +70,12 @@ dynamic Steam pages.
     their artwork or screenshot page.
 
 ------------------------------------------------------------------------
-
 ## Installation
 
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/Glizzy505/steam-artwork-auto-uploader.git
+git clone https://github.com/Glizzy505/Steam-Artwork.git
 ```
 
 2. Open Chrome and go to:
