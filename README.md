@@ -76,14 +76,14 @@ dynamic Steam pages.
 1.  Clone this repository:
 
 ```{=html}
-<!-- -->
+
 ```
     git clone https://github.com/Glizzy505/steam-artwork-auto-uploader.git
 
 2.  Open Chrome and go to:
 
 ```{=html}
-<!-- -->
+
 ```
     chrome://extensions
 
