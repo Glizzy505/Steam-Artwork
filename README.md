@@ -78,7 +78,7 @@ dynamic Steam pages.
 ```{=html}
 <!-- -->
 ```
-    git clone https://github.com/YOUR_USERNAME/steam-artwork-auto-uploader.git
+    git clone https://github.com/Glizzy505/steam-artwork-auto-uploader.git
 
 2.  Open Chrome and go to:
 
